@@ -1,0 +1,65 @@
+/* menu */
+.nav_menu {
+    background: #CADAF9;
+}
+
+/* second section */
+.second_section_text {
+    color: #5596FF;
+}
+.hr_color {
+    background: #5596ff;
+}
+.card_facality {
+    color: #5596FF;
+    border-style: solid;
+    border-width: 15px;
+    border-color: #CADAF9;
+    border-radius: 10px;
+}
+
+/* fifth section */
+#fifth_section {
+    color: #5596FF;
+    /* background-color: #CADAF9; */
+}
+
+/* General styling */
+.container {
+    margin: auto;
+}
+.row {
+    margin-bottom: 20px;
+}
+
+/* first section */
+.first_section_text{
+	padding-top: 200px;
+}
+.down{
+	border-style: solid;
+	border-width: 15px;
+	border-color: #CADAF9;
+	border-radius: 50%;
+}
+
+/* third section */
+.card_medicine{
+	color: #000;
+	background: #CADAF9;
+}
+.card_medicine:hover {
+    transform: scale(1.05);
+}
+
+/* six section */
+#six_section{
+	background: #565656;
+}
+.six_section_text{
+	padding-top: 110px;
+	color: #ABD1FF;
+}
+.six_section_list{
+	padding-top: 70px;
+}
